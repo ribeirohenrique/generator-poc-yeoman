@@ -1,0 +1,30 @@
+{
+  "name": "generator-poc-yeoman",
+  "version": "1.0.0",
+  "description": "Yeoman Scaffold Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "app"
+  ],
+  "author": "Henrique Mendes",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribeirohenrique/generator-poc-yeoman.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ribeirohenrique/generator-poc-yeoman/issues"
+  },
+  "homepage": "https://github.com/ribeirohenrique/generator-poc-yeoman#readme",
+  "dependencies": {
+    "decamelize": "^6.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^5.7.0"
+  }
+}
