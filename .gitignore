@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node,webstorm+all,yeoman
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,webstorm+all,yeoman
 
+### Output dos testes no yeoman ###
+yeoman-output
+
 ### Node ###
 # Logs
 logs
